@@ -1,5 +1,8 @@
 // This class implements the process described at this website:
 // http://www.stargazing.net/kepler/altaz.html
+// and prints out the necessary altitude and azimuth needed to view
+// a specific Right Ascension and Declination in the sky from
+// a latitude and longitude
 
 import java.util.*;
 import java.time.*;
