@@ -8,6 +8,7 @@ To use the calculator one needs to first know:
 2. **Longitude** of observing location
 3. **Right Ascension** of location in the sky
 4. **Declination** of location in the sky
+
 **ALL ABOVE VALUES MUST BE IN DECIMAL FORMAT**
 
 Happy Stargazing
